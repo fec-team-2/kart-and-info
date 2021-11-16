@@ -53,7 +53,7 @@
 	"devDependencies": {
 		"ajax": "0.0.4",
 		"aws-s3": "^2.0.5",
-		"aws-sdk": "^2.466.0",
+		"aws-sdk": "^2.814.0",
 		"axios": "^0.18.0",
 		"babel-core": "^6.23.1",
 		"babel-loader": "^6.3.2",
